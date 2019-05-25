@@ -1,0 +1,7 @@
+﻿D:\visualstudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(411,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(mailinkan.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Test.cpp
+E:\GitHub\DataStructExperience\mailinkan\ExtLGraph.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\GitHub\DataStructExperience\mailinkan\ExtLGraph.h(258): warning C4101: “i”: 未引用的局部变量
+E:\GitHub\DataStructExperience\mailinkan\ExtLGraph.h(258): warning C4101: “w”: 未引用的局部变量
+E:\GitHub\DataStructExperience\mailinkan\ExtLGraph.h(150): warning C4715: “ExtLGraph::Modify”: 不是所有的控件路径都返回值
+  mailinkan.vcxproj -> E:\GitHub\DataStructExperience\Debug\dataStructExperience.exe
